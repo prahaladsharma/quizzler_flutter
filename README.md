@@ -1,17 +1,10 @@
 # quizzler_flutter
 
-A new Flutter project.
+A new Flutter project on quiz that also check your answer with green and red checkmark.
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Quizzler" 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6931557/226099390-25fd1400-d868-4fcd-ab64-b112296d5cbc.png" width="150" title="hover text">
+  <img src="https://user-images.githubusercontent.com/6931557/226099392-0aa0c395-f760-4db1-8bfa-7bda6c6191c9.png" width="150" alt="accessibility text">
+</p>
